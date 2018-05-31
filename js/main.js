@@ -1,5 +1,5 @@
 
-
+{
 let $p;
 let anadirEfectosH3 = function () {
     $(".example h3").first().attr("id","Rueda")
@@ -118,3 +118,4 @@ $(function($){
 
     
 });    
+}
